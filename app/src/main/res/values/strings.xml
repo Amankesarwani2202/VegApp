@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Vegetable_Order</string>
+
+    <string name="splash">Splash</string>
+    <string name="onboarding">OnBoarding</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="vegetabledetail">Vegetable Detail</string>
+
+    <string name="onboarding_heading_1">Freshness Gaurantee</string>
+    <string name="onboarding_heading_2">Directly Picked</string>
+    <string name="onboarding_heading_3">Delivered Direct
+    </string>
+    <string name="onboarding_description_1">Get vegetable in fresh condition and best quality</string>
+    <string name="onboarding_description_2">The vegetables we provide are in the best conditions Directly picked from the garden.</string>
+    <string name="onboarding_description_3">After the vegetables are picked from the garden we immediately send them to you</string>
+
+    <string name="text_back_icon">Back Icon</string>
+    <string name="text_filter_icon">Filter Icon</string>
+    <string name="text_search_icon">Search Icon</string>
+    <string name="text_add_icon">Add Icon</string>
+    <string name="text_heart_icon">Heart Icon</string>
+
+</resources>
